@@ -31,10 +31,6 @@ Email Me 👉 ✉️ **laksshaysaxena@gmail.com** For Collaboration/Project or A
 
 
 
-
-## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=LaksshaySaxena&theme=radical)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
